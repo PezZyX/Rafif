@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 1400px;
+}
+
+.bar{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 9px;
+    padding-bottom: 7px;
+}
+
+.button-read {
+    display: inline;
+    border: 1px solid #000000;
+    transition: .3s;
+}
+
+.button-read:hover{
+    border: 1px solid white;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    transition: .3s;
+    cursor: pointer;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+}
+
+.logo{
+    display:flex;
+    align-items: center;
+    font-size: 25px;
+}
+
+.logo img{
+    margin-right: 15px;
+}
+
+.wp img{
+    width: 1583px;
+}
+
+.discover{
+    text-align: center;
+    margin: 50px;
+    padding: 32px;
+}
+
+.discover span{
+    font-size: 22px;
+}
+
+.product{
+    display: flex;
+}
+
+.product1 {
+    margin-left: 100px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+.product2 {
+    margin-left: 42px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+.product3 {
+    margin-left: 42px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+.product4 {
+    margin-left: 42px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+
+.produk {
+    display: flex;
+}
+.product5 {
+    margin-left: 100px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+.product6 {
+    margin-left: 42px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+.product7 {
+    margin-left: 42px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+.product8 {
+    margin-left: 42px;
+    margin-bottom: 20px;
+    margin-right: 50px;
+}
+
+.kotak1{
+    display: flex;
+    background-color: #FDE2CA;
+    margin: 35px 70px;
+}
+
+.pesan{
+    margin: 25px 600px;
+}
+
+.help{
+    margin-top: 36px;
+    margin-left: 132px;
+    margin-bottom: 46px;
+}
+
+.help h1{
+    font-size: 24px;
+}
+
+.button{
+    background-color: #222427;
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+    padding: 10px 55px;
+    width: 100px;
+}
+
+.kotak2 {
+    background-color: black;
+}
+
+.logo2 {
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 68px;
+    margin-right: 1233px;
+    margin-left: 95px;
+    font-size: 20px;
+}
+
+.logo2 img{
+    margin-right: 7px;
+}
+
+.bawah{
+    display: flex;
+    color: white;
+    font-size: 14px;
+}
+
+.kontak{
+    margin-right: 145px;
+    margin-left: 165px;
+}
+
+.order {
+    margin: 8px 85px 85px 61px;
+}
+
+.resources {
+    margin: 8px 110px 82px 92px;
+}
+
+.barbawah{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top: 1px;
+    padding: 26px;
+}
